@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.cheung.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.cheung.config.\
+    RedisTestContainersSpringContextCustomizerFactory
